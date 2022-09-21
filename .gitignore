@@ -1,3 +1,10 @@
+.vscode
+node_modules
+
+.editorconfig
+target/
+\bin
+
 # Compiled class file
 *.class
 
